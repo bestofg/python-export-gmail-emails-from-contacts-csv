@@ -1,4 +1,4 @@
-# python-export-gmail-emails-from-contacts-csv
+# python export emails from contacts csv as json
 python export emails as json from google contacts csv
 ## Getting Started
 ### export google contacts 
