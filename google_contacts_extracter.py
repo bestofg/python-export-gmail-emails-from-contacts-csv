@@ -1,8 +1,8 @@
 import csv
 import re
 import json
-#contacts = "contacts.csv here"
-contacts = "contacts.csv"
+contacts = "contacts.csv" # google contacts csv here exemple : contacts.csv
+
 csvfile = open(contacts, 'r')
 #get emails by columns : "E-mail Address" , "E-mail 2 Address" and "E-mail 3 Address"
 columns = ("E-mail Address","E-mail 2 Address","E-mail 3 Address")
