@@ -14,7 +14,8 @@ follow google documentation : https://support.google.com/mail/answer/1069522?hl=
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
-
+## Plateformes
+ working in **Windows** and **Linux**
 ## Authors
 * **Mahdi Bahri**  [bestofg](https://github.com/bestofg)
 # for support me:
